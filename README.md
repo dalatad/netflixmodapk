@@ -3,8 +3,10 @@ The project to develop an application to watch movies on netflix premium for fre
 
 Netflix MOD APK (Premium Unlocked) is a streaming application that allows you to watch all the new and best movies, TV shows, anime, documentaries, etc. right on your mobile phone. Just download and you’re good to go.
 
-#Introducing Netflix
-#What is Netflix?
+<h2>Introducing Netflix</h2> <br>
+
+<b>What is Netflix?</b><br>
+
 Netflix is an American movie streaming service, popular in more than 130 countries worldwide. Their service is being rated the world’s leading in the field of film and television programs.
 
 Netflix provides huge movie stores with high quality, full copyright. You can use Netflix on a variety of platforms, from the official website to the mobile app and even have a TV version.
