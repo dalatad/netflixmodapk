@@ -1,2 +1,2 @@
 # NETFLIX MOD APK | NETFLIX MOD APK
-The project to develop an application to watch movies on netflix premium for free | Netflix mod apk
+The project to develop an application to watch movies on netflix premium for free | <a href='https://appdaily.org/' >Netflix mod apk</a>
